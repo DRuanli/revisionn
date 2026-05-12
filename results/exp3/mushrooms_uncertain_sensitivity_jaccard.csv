@@ -1,0 +1,17 @@
+dataset,param,value,jaccard_vs_reference,runtime_mean_ms
+mushrooms_uncertain,alpha,0.5,1.0000,20656.33
+mushrooms_uncertain,alpha,1.0,1.0000,20613.33
+mushrooms_uncertain,alpha,1.5,1.0000,20670.67
+mushrooms_uncertain,alpha,2.0,1.0000,20800.67
+mushrooms_uncertain,rho,0.0,1.0000,20855.00
+mushrooms_uncertain,rho,0.02,1.0000,20860.00
+mushrooms_uncertain,rho,0.05,1.0000,20889.33
+mushrooms_uncertain,rho,0.1,1.0000,20867.00
+mushrooms_uncertain,p_min,0.05,1.0000,20817.00
+mushrooms_uncertain,p_min,0.1,1.0000,20910.67
+mushrooms_uncertain,p_min,0.2,1.0000,20888.33
+mushrooms_uncertain,p_min,0.3,1.0000,20935.67
+mushrooms_uncertain,p_max,0.7,1.0000,20856.00
+mushrooms_uncertain,p_max,0.8,1.0000,20868.33
+mushrooms_uncertain,p_max,0.9,1.0000,20867.00
+mushrooms_uncertain,p_max,1.0,1.0000,20823.33

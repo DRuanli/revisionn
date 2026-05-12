@@ -1,0 +1,17 @@
+dataset,param,value,jaccard_vs_reference,runtime_mean_ms
+chess_uncertain,alpha,0.5,1.0000,2762.00
+chess_uncertain,alpha,1.0,1.0000,2917.00
+chess_uncertain,alpha,1.5,1.0000,2845.33
+chess_uncertain,alpha,2.0,1.0000,2784.67
+chess_uncertain,rho,0.0,1.0000,2776.67
+chess_uncertain,rho,0.02,1.0000,2797.00
+chess_uncertain,rho,0.05,1.0000,2761.33
+chess_uncertain,rho,0.1,1.0000,2784.67
+chess_uncertain,p_min,0.05,1.0000,2775.00
+chess_uncertain,p_min,0.1,1.0000,2911.33
+chess_uncertain,p_min,0.2,1.0000,2920.00
+chess_uncertain,p_min,0.3,1.0000,2940.00
+chess_uncertain,p_max,0.7,1.0000,2926.67
+chess_uncertain,p_max,0.8,1.0000,2941.00
+chess_uncertain,p_max,0.9,1.0000,2930.67
+chess_uncertain,p_max,1.0,1.0000,2923.00

@@ -1,0 +1,17 @@
+dataset,param,value,jaccard_vs_reference,runtime_mean_ms
+liquor_11frequent_uncertain,alpha,0.5,1.0000,12972.67
+liquor_11frequent_uncertain,alpha,1.0,1.0000,12549.00
+liquor_11frequent_uncertain,alpha,1.5,1.0000,12642.33
+liquor_11frequent_uncertain,alpha,2.0,1.0000,12793.00
+liquor_11frequent_uncertain,rho,0.0,1.0000,12978.33
+liquor_11frequent_uncertain,rho,0.02,1.0000,12773.33
+liquor_11frequent_uncertain,rho,0.05,1.0000,12673.67
+liquor_11frequent_uncertain,rho,0.1,1.0000,12646.33
+liquor_11frequent_uncertain,p_min,0.05,1.0000,12687.33
+liquor_11frequent_uncertain,p_min,0.1,1.0000,12803.67
+liquor_11frequent_uncertain,p_min,0.2,1.0000,12908.33
+liquor_11frequent_uncertain,p_min,0.3,1.0000,12774.33
+liquor_11frequent_uncertain,p_max,0.7,1.0000,13033.00
+liquor_11frequent_uncertain,p_max,0.8,1.0000,12870.67
+liquor_11frequent_uncertain,p_max,0.9,1.0000,12696.67
+liquor_11frequent_uncertain,p_max,1.0,1.0000,12767.67

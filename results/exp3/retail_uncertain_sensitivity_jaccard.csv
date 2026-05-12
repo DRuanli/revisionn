@@ -1,0 +1,17 @@
+dataset,param,value,jaccard_vs_reference,runtime_mean_ms
+retail_uncertain,alpha,0.5,1.0000,33032.00
+retail_uncertain,alpha,1.0,1.0000,33074.33
+retail_uncertain,alpha,1.5,1.0000,29181.33
+retail_uncertain,alpha,2.0,1.0000,33000.67
+retail_uncertain,rho,0.0,1.0000,32924.00
+retail_uncertain,rho,0.02,1.0000,34121.67
+retail_uncertain,rho,0.05,1.0000,32965.67
+retail_uncertain,rho,0.1,1.0000,33022.67
+retail_uncertain,p_min,0.05,1.0000,32861.33
+retail_uncertain,p_min,0.1,1.0000,33083.00
+retail_uncertain,p_min,0.2,1.0000,32961.00
+retail_uncertain,p_min,0.3,1.0000,32757.67
+retail_uncertain,p_max,0.7,1.0000,29087.33
+retail_uncertain,p_max,0.8,1.0000,32845.33
+retail_uncertain,p_max,0.9,1.0000,30939.67
+retail_uncertain,p_max,1.0,1.0000,32985.67

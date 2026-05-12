@@ -1,0 +1,5 @@
+dataset,group,runtime_full_ms,runtime_none_ms,runtime_only_group_ms,runtime_no_group_ms,marginal_benefit_pct,exclusive_benefit_pct
+mushrooms,G1,22490.67,58252.33,25198.00,42332.33,88.22,56.74
+mushrooms,G2,22490.67,58252.33,42972.00,22940.00,2.00,26.23
+mushrooms,G3,22490.67,58252.33,55784.00,23831.67,5.96,4.24
+mushrooms,G4,22490.67,58252.33,55641.33,23510.33,4.53,4.48

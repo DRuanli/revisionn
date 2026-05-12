@@ -1,0 +1,6 @@
+dataset,k,config,rep,runtime_ms,candidates_explored,closure_checks
+processed_data/retail_uncertain.txt,500,FULL,0,128244,263,764
+processed_data/retail_uncertain.txt,500,FULL,1,123279,263,764
+processed_data/retail_uncertain.txt,500,FULL,2,130821,263,764
+processed_data/retail_uncertain.txt,500,NO_G1_frontier,0,819120,592,17062
+processed_data/retail_uncertain.txt,500,NO_G1_frontier,1,864252,592,17062

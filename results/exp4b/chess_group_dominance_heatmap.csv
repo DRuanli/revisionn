@@ -1,0 +1,5 @@
+dataset,group,runtime_full_ms,runtime_none_ms,runtime_only_group_ms,runtime_no_group_ms,marginal_benefit_pct,exclusive_benefit_pct
+chess,G1,2835.67,21919.67,3177.67,12272.67,332.80,85.50
+chess,G2,2835.67,21919.67,13178.67,2951.33,4.08,39.88
+chess,G3,2835.67,21919.67,22098.67,3039.00,7.17,-0.82
+chess,G4,2835.67,21919.67,22209.33,2988.33,5.38,-1.32
