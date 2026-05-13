@@ -1,5 +1,5 @@
 dataset,group,runtime_full_ms,runtime_none_ms,runtime_only_group_ms,runtime_no_group_ms,marginal_benefit_pct,exclusive_benefit_pct
 liquor_11frequent,G1,13987.00,40266.67,16586.67,32236.00,130.47,58.81
-liquor_11frequent,G2,13987.00,40266.67,31915.33,15406.33,"",""
-liquor_11frequent,G3,13987.00,40266.67,36945.00,16178.00,"",""
-liquor_11frequent,G4,13987.00,40266.67,35349.67,15167.00,"",""
+liquor_11frequent,G2,13987.00,40266.67,31915.33,15406.33,10.15,20.74
+liquor_11frequent,G3,13987.00,40266.67,36945.00,16178.00,15.66,8.25
+liquor_11frequent,G4,13987.00,40266.67,35349.67,15167.00,8.44,12.21
