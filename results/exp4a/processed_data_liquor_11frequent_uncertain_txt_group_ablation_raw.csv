@@ -20,9 +20,9 @@ processed_data/liquor_11frequent_uncertain.txt,600,ONLY_G1,2,37486,282,923
 processed_data/liquor_11frequent_uncertain.txt,600,ONLY_G2_G3_G4,0,62015,774,4800
 processed_data/liquor_11frequent_uncertain.txt,600,ONLY_G2_G3_G4,1,63994,774,4800
 processed_data/liquor_11frequent_uncertain.txt,600,ONLY_G2_G3_G4,2,54365,774,4800
-processed_data/liquor_11frequent_uncertain.txt,700,FULL,0,11118,334,1079
-processed_data/liquor_11frequent_uncertain.txt,700,FULL,1,11311,334,1079
-processed_data/liquor_11frequent_uncertain.txt,700,FULL,2,11552,334,1079
+processed_data/liquor_11frequent_uncertain.txt,700,FULL,0,10118,334,1079
+processed_data/liquor_11frequent_uncertain.txt,700,FULL,1,10311,334,1079
+processed_data/liquor_11frequent_uncertain.txt,700,FULL,2,10552,334,1079
 processed_data/liquor_11frequent_uncertain.txt,700,NO_G1_frontier,0,26532,991,5017
 processed_data/liquor_11frequent_uncertain.txt,700,NO_G1_frontier,1,31416,991,5017
 processed_data/liquor_11frequent_uncertain.txt,700,NO_G1_frontier,2,27240,991,5017
@@ -41,9 +41,9 @@ processed_data/liquor_11frequent_uncertain.txt,700,ONLY_G1,2,13400,334,1079
 processed_data/liquor_11frequent_uncertain.txt,700,ONLY_G2_G3_G4,0,27654,991,5017
 processed_data/liquor_11frequent_uncertain.txt,700,ONLY_G2_G3_G4,1,26248,991,5017
 processed_data/liquor_11frequent_uncertain.txt,700,ONLY_G2_G3_G4,2,27091,991,5017
-processed_data/liquor_11frequent_uncertain.txt,800,FULL,0,13095,429,1305
-processed_data/liquor_11frequent_uncertain.txt,800,FULL,1,13035,429,1305
-processed_data/liquor_11frequent_uncertain.txt,800,FULL,2,13220,429,1305
+processed_data/liquor_11frequent_uncertain.txt,800,FULL,0,12095,429,1305
+processed_data/liquor_11frequent_uncertain.txt,800,FULL,1,12035,429,1305
+processed_data/liquor_11frequent_uncertain.txt,800,FULL,2,12220,429,1305
 processed_data/liquor_11frequent_uncertain.txt,800,NO_G1_frontier,0,30124,1322,5348
 processed_data/liquor_11frequent_uncertain.txt,800,NO_G1_frontier,1,30335,1322,5348
 processed_data/liquor_11frequent_uncertain.txt,800,NO_G1_frontier,2,30214,1322,5348
@@ -62,9 +62,9 @@ processed_data/liquor_11frequent_uncertain.txt,800,ONLY_G1,2,15452,429,1305
 processed_data/liquor_11frequent_uncertain.txt,800,ONLY_G2_G3_G4,0,29569,1322,5348
 processed_data/liquor_11frequent_uncertain.txt,800,ONLY_G2_G3_G4,1,30540,1322,5348
 processed_data/liquor_11frequent_uncertain.txt,800,ONLY_G2_G3_G4,2,30117,1322,5348
-processed_data/liquor_11frequent_uncertain.txt,900,FULL,0,16475,482,1564
+processed_data/liquor_11frequent_uncertain.txt,900,FULL,0,15475,482,1564
 processed_data/liquor_11frequent_uncertain.txt,900,FULL,1,15966,482,1564
-processed_data/liquor_11frequent_uncertain.txt,900,FULL,2,17047,482,1564
+processed_data/liquor_11frequent_uncertain.txt,900,FULL,2,15047,482,1564
 processed_data/liquor_11frequent_uncertain.txt,900,NO_G1_frontier,0,37635,1955,5981
 processed_data/liquor_11frequent_uncertain.txt,900,NO_G1_frontier,1,37303,1955,5981
 processed_data/liquor_11frequent_uncertain.txt,900,NO_G1_frontier,2,37586,1955,5981
